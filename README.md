@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngularByDesign and I am the owner/operator of AngularByDesign.com
 - 👀 I’m interested in learning more about GitHub
-- 🌱 I’ve been developing WordPress and WooCommerce sites for about 3 years now, but have been developing sites for more than 25 years.
+- 🌱 I’ve been developing WordPress and WooCommerce sites for about 3 years now, but have been developing HTML sites for more than 25 years.
 - 💞️ I’m looking to collaborate on Development Projects
 - 📫 How to reach me shawn@angularbydesign.com
 
